@@ -16,13 +16,6 @@ Welcome to the **Number Guessing Game**, built with Python and Tkinter. This vis
 - 🧹 Reset functionality to replay instantly
 - 👩‍💻 Built using clean, modular Python code
 
----
-
-## 📸 GUI Preview
-
-> _"Looks like a pro-level app!"_
-
-![Screenshot](screenshot.png)
 
 ---
 
@@ -71,4 +64,4 @@ Feel free to connect with me:
   
 ---
 
-⭐ Don't forget to star the repo if you found it useful!
+> _"⭐ Don't forget to star the repo if you found it useful!"_
