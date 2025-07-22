@@ -41,11 +41,11 @@ Welcome to the **Number Guessing Game**, built with Python and Tkinter. This vis
    ```bash
    git clone https://github.com/Jaanvichouhan34/CODINGSAMURAI.git
    cd CODINGSAMURAI/number-guessing-game
-```
+   ```
 
 ---
 
-### Run the game:
+### Run the app
    ```bash
 python guessing_game.py
    ```
