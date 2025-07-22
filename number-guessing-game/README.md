@@ -62,3 +62,13 @@ number-guessing-game/
 
 ---
 
+## 📬 Contact
+
+Feel free to connect with me:
+
+- 🔗 [GitHub](https://github.com/Jaanvichouhan34)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
+  
+---
+
+⭐ Don't forget to star the repo if you found it useful!
