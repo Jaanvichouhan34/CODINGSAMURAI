@@ -42,9 +42,10 @@ python todo.py
 
 ---
 
-##📁 Folder Structure
-```bash
+### 📁Folder Structure
+
 CODINGSAMURAI/
+```bash
 └── todo-list/
     ├── todo.py
     ├── task_history.csv
