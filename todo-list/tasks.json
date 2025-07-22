@@ -1,0 +1,27 @@
+[
+    {
+        "task": "wakeup",
+        "category": "personal",
+        "due": "2025-07-18"
+    },
+    {
+        "task": "breakfast",
+        "category": "personal",
+        "due": "2025-07-18"
+    },
+    {
+        "task": "studey",
+        "category": "education",
+        "due": "2025-07-18"
+    },
+    {
+        "task": "tv",
+        "category": "entertainment",
+        "due": "2025-07-18"
+    },
+    {
+        "task": "lunch",
+        "category": "personal",
+        "due": "2005-08-18"
+    }
+]
